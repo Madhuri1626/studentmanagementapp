@@ -1,0 +1,14 @@
+.container{
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    width:30vmin;
+    /* height: 20vmin; */
+    padding: 2%;
+    align-items: center;
+    background-color: #55c5ac;
+    display: flex;
+  }
+  .con .container{
+    display: inline-block;
+    margin-left: 170px;
+  
+  }
